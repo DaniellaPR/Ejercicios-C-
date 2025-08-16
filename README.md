@@ -7,4 +7,8 @@ Nivel 2: Algoritmos de búsqueda, algoritmos de ordenamiento
 
 Nivel 3: Pilas, colas, listas enlazadas, dobles, circulares
 
-Nivel 4: Recursividad
+Nivel 4: Recursividad, complejidad y optimización algorítmica
+
+Nivel 5: Árboles binarios, ABO, AVL
+
+Nivel 6: Grafos
